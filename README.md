@@ -1,10 +1,3 @@
-- 👋 Olá, me chamo Adelino Almeida
-- 👀 Tenho interesse no momento em ...
-- 🌱 Atualmente estou aprendendo sobre PySimpleGUI ...
-- 💞️ Estou procurando contribuir em fazer códigos simples para iniciantes ...
-- 📫 Minhas redes de contato: adelinoalmeida101@gmail.com ou adelino101almeida@hotmail.com ...
-
-<!---
-pyrataria/pyrataria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hello World, I'm Adelino!
+Olá, me chamo **Adelino Almeida**. Sou estudante de Análise e Desenvolvimento de Sistemas, desenvolvo programas **back-end** e adoro tomar café. Um fã da franquia Zelda e aspirante a desenhista!
+Estou ativo no [LinkedIn](https://www.linkedin.com/in/adelino-almeida-447223206).
