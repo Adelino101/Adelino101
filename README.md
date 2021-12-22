@@ -7,4 +7,4 @@ Olá, me chamo **Adelino Almeida**. Sou estudante de Análise e Desenvolvimento 
 Estou ativo no [LinkedIn](https://www.linkedin.com/in/adelino-almeida-447223206).
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/pyrataria/)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user="https://github.com/pyrataria/")](https://git.io/streak-stats)
