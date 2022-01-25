@@ -6,7 +6,7 @@
 
 ------
 
-Olá, me chamo **Adelino Almeida**. Sou estudante de Análise e Desenvolvimento de Sistemas :mag::computer:, desenvolvo programas **back-end** e adoro tomar café:coffee:. Um fã da franquia Zelda:video_game: e aspirante a desenhista:art:!
+Olá, me chamo **Adelino Almeida**. Sou estudante de Análise e Desenvolvimento de Sistemas :mag::computer:, desenvolvo programas e adoro tomar café:coffee:. Um fã da franquia Zelda:video_game: e aspirante a desenhista:art:!
 
 <h3 align="left">:computer:Languages and Tools:wrench::</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
