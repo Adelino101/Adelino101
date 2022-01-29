@@ -6,7 +6,7 @@
 
 ------
 
-Olá, me chamo **Adelino Almeida**. Adoro tomar café :coffee: , sou fã da franquia Zelda :video_game: e aspirante a desenhista :art:!. Esta página é dedicada a projetos em Python :mag::computer:
+Olá, me chamo **Adelino Almeida**. Adoro tomar café :coffee: , sou fã da franquia Zelda :video_game: e aspirante a desenhista :art:. Esta página é dedicada a projetos em Python :mag::computer:
 
 <h3 align="left">:computer:Languages and Tools:wrench::</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
