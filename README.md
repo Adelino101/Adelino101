@@ -6,7 +6,9 @@
 
 ------
 
-Olá, me chamo **Adelino Almeida**. Adoro tomar café :coffee: , sou fã da franquia Zelda :video_game: e aspirante a desenhista :art:. Esta página é dedicada a projetos em Python :mag::computer:
+Olá, me chamo **Adelino Almeida**. Sou estudante universitário de Análise e Desenvolvimento de Sistemas. Além disso, busco especialização na área de Análise de Dados.
+Está página será dedicada a estudos estatísticos, como forma de catalogação de meus atuais projetos.
+Espero que isso contribua positivamente à todos!
 
 <h3 align="left">:computer:Languages and Tools:wrench::</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
