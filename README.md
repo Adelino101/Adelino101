@@ -6,7 +6,7 @@
 
 ------
 
-Olá, me chamo **Adelino Almeida**. Sou estudante universitário do curso de **Análise e Desenvolvimento de Sistemas**. Além disso, busco especialização na área de Análise de Dados.  
+Olá, me chamo **Adelino Almeida**. Sou estudante universitário do curso de **Análise e Desenvolvimento de Sistemas**. Além disso, me especializo na área de Análise de Dados.  
 Está página será dedicada a estudos estatísticos, como forma de catalogação de meus atuais projetos.  
 Espero que isso contribua positivamente à todos!
 
