@@ -10,5 +10,5 @@ Olá, me chamo **Adelino Almeida**. Sou estudante universitário do curso de **A
 Está página será dedicada a estudos estatísticos, como forma de catalogação de meus atuais projetos.  
 Espero que isso contribua positivamente à todos!
 
-<h3 align="left">:computer:Languages and Tools:wrench::</h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h3 align="left">:computer:Linguagens e Ferramentas:wrench::</h3>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>    </a> <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
