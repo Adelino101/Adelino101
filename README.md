@@ -16,5 +16,5 @@ Está página será dedicada a estudos estatísticos, como forma de catalogaçã
 <a href="https://www.kaggle.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>    </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-<a href="https://plotly.com/" target="_blank"> <img src="https://github.com/devicons/devicon/tree/master/icons/plotly" alt="plotly" width="40" height="40"/></a>
+<a href="https://plotly.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" alt="plotly" width="40" height="40"/></a>
 <a href="https://mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
