@@ -10,6 +10,9 @@
 
 Sou graduado no curso de **Análise e Desenvolvimento de Sistemas**. Além disso, busco especialização na área de Análise de Dados.  
 Está página será dedicada a estudos estatísticos, como forma de catalogar meus projetos e registrar minha evolução como analista de dados.
+
+------
+
 <h3 align="left">:computer:Linguagens e Ferramentas:wrench::</h3>
 <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://colab.google/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/></a>  
