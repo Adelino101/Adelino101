@@ -8,7 +8,7 @@
 
 ------
 
-Sou graduado no curso de **Análise e Desenvolvimento de Sistemas** e pós-graduando em Big Data, Analytics e BI Aplicados aos Negócios.  
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduando em _Big Data, Analytics e BI Aplicados aos Negócios_.  
 Está página será dedicada a estudos estatísticos, como forma de catalogar meus projetos e registrar minha evolução como analista de dados.
 
 ------
